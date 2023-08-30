@@ -1,0 +1,99 @@
+/content/TTS-TT2/wavs/1.wav|The sun sets behind the mountains in a blaze of orange and pink.
+/content/TTS-TT2/wavs/2.wav|The world is a book and those who do not travel read only one page.
+/content/TTS-TT2/wavs/3.wav|Music has the power to touch our souls and uplift our spirits.
+/content/TTS-TT2/wavs/4.wav|In the heart of the forest a hidden waterfall flows gently.
+/content/TTS-TT2/wavs/5.wav|Laughter is contagious spreading joy to all who hear it.
+/content/TTS-TT2/wavs/6.wav|Technology has revolutionized the way we communicate and connect.
+/content/TTS-TT2/wavs/7.wav|The waves crash against the shore creating a soothing melody.
+/content/TTS-TT2/wavs/8.wav|Dreams are the seeds of creativity waiting to be nurtured.
+/content/TTS-TT2/wavs/9.wav|The night sky is adorned with stars that tell stories of the universe.
+/content/TTS-TT2/wavs/10.wav|Courage is not the absence of fear but the triumph over it.
+/content/TTS-TT2/wavs/11.wav|The aroma of freshly baked bread fills the air making mouths water.
+/content/TTS-TT2/wavs/12.wav|With each step the hiker discovers new wonders on the trail.
+/content/TTS-TT2/wavs/13.wav|Time is an elusive concept slipping through our fingers like sand.
+/content/TTS-TT2/wavs/14.wav|The first snowfall covers the landscape in a blanket of white.
+/content/TTS-TT2/wavs/15.wav|Love is the foundation upon which beautiful relationships are built.
+/content/TTS-TT2/wavs/16.wav|A smile is a universal language that transcends barriers.
+/content/TTS-TT2/wavs/17.wav|The city's skyline sparkles with lights as the night falls.
+/content/TTS-TT2/wavs/18.wav|The world of literature is a treasure trove of imagination and wisdom.
+/content/TTS-TT2/wavs/19.wav|Raindrops dance on the windowpane composing a soothing melody.
+/content/TTS-TT2/wavs/20.wav|The journey of a thousand miles begins with a single step.
+/content/TTS-TT2/wavs/21.wav|Friendship is a bond that withstands the tests of time.
+/content/TTS-TT2/wavs/22.wav|The autumn leaves paint the trees in shades of red orange and gold.
+/content/TTS-TT2/wavs/23.wav|Kindness is like a ripple in a pond spreading positivity far and wide.
+/content/TTS-TT2/wavs/24.wav|The sound of children's laughter is a source of pure delight.
+/content/TTS-TT2/wavs/25.wav|Life's challenges mold us into the people we are meant to be.
+/content/TTS-TT2/wavs/26.wav|The aroma of a blooming garden fills the air with sweet fragrances.
+/content/TTS-TT2/wavs/27.wav|The constellations in the night sky tell stories of ancient mythologies.
+/content/TTS-TT2/wavs/28.wav|The artist's brush strokes on canvas convey emotions and stories.
+/content/TTS-TT2/wavs/29.wav|The symphony of nature's sounds creates a calming harmony.
+/content/TTS-TT2/wavs/30.wav|Patience is a virtue that brings serenity to the restless mind.
+/content/TTS-TT2/wavs/31.wav|In the heart of the city a bustling marketplace comes to life.
+/content/TTS-TT2/wavs/32.wav|The fragrance of coffee awakens the senses on a crisp morning.
+/content/TTS-TT2/wavs/33.wav|Memories are the tapestry of our past woven with threads of time.
+/content/TTS-TT2/wavs/34.wav|The universe is vast and mysterious inviting exploration.
+/content/TTS-TT2/wavs/35.wav|The ocean waves whisper secrets to those who listen.
+/content/TTS-TT2/wavs/36.wav|Innovation drives progress shaping the future of humanity.
+/content/TTS-TT2/wavs/37.wav|The melody of a song can transport us to distant memories.
+/content/TTS-TT2/wavs/38.wav|The dance of fireflies in the evening sky is a magical sight.
+/content/TTS-TT2/wavs/39.wav|Gratitude is the key that unlocks the door to happiness.
+/content/TTS-TT2/wavs/40.wav|The scent of rain after a summer storm revitalizes the earth.
+/content/TTS-TT2/wavs/41.wav|Each sunrise brings a new day a fresh start and endless possibilities.
+/content/TTS-TT2/wavs/42.wav|The wind carries whispers of ancient tales through the forest.
+/content/TTS-TT2/wavs/43.wav|A library is a sanctuary of knowledge waiting to be explored.
+/content/TTS-TT2/wavs/44.wav|Colors paint the world in vibrant hues expressing emotions without words.
+/content/TTS-TT2/wavs/45.wav|The rhythm of the waves against the shore calms the restless soul.
+/content/TTS-TT2/wavs/46.wav|The cycle of life is a symphony of birth growth and renewal.
+/content/TTS-TT2/wavs/47.wav|The scent of pine needles conjures images of a peaceful forest.
+/content/TTS-TT2/wavs/48.wav|The starlit sky invites contemplation and dreams.
+/content/TTS-TT2/wavs/49.wav|The pages of a book hold the power to transport us to different worlds.
+/content/TTS-TT2/wavs/50.wav|Compassion is the foundation of a harmonious society.
+/content/TTS-TT2/wavs/51.wav|The moon's glow illuminates the night casting shadows in its wake.
+/content/TTS-TT2/wavs/52.wav|The beauty of a garden lies in the diversity of its blossoms.
+/content/TTS-TT2/wavs/53.wav|Memories are the threads that weave the fabric of our identity.
+/content/TTS-TT2/wavs/54.wav|The crackling of a campfire creates an ambiance of warmth and camaraderie.
+/content/TTS-TT2/wavs/55.wav|The wind whispers secrets to the leaves as they rustle in the trees.
+/content/TTS-TT2/wavs/56.wav|The city skyline comes to life with a vibrant display of lights.
+/content/TTS-TT2/wavs/57.wav|The scent of freshly cut grass evokes memories of carefree summers.
+/content/TTS-TT2/wavs/58.wav|The sound of rain tapping on the roof is a lullaby for the soul.
+/content/TTS-TT2/wavs/59.wav|Curiosity fuels exploration leading to new discoveries.
+/content/TTS-TT2/wavs/60.wav|The gentle hum of a forest awakens to the arrival of dawn.
+/content/TTS-TT2/wavs/61.wav|A single candle can pierce the darkness with its soft glow.
+/content/TTS-TT2/wavs/62.wav|The stars above are like ancient storytellers sharing tales of the past.
+/content/TTS-TT2/wavs/63.wav|Music transcends language conveying emotions that words cannot express.
+/content/TTS-TT2/wavs/64.wav|The colors of a sunset paint the sky in a breathtaking display.
+/content/TTS-TT2/wavs/65.wav|A smile has the power to brighten someone's day in an instant.
+/content/TTS-TT2/wavs/66.wav|The sound of leaves crunching beneath our feet is the song of autumn.
+/content/TTS-TT2/wavs/67.wav|The aroma of a home-cooked meal brings comfort and warmth.
+/content/TTS-TT2/wavs/68.wav|The tides of the ocean are a reminder of the ebb and flow of life.
+/content/TTS-TT2/wavs/69.wav|A gentle breeze carries whispers of nature through the air.
+/content/TTS-TT2/wavs/70.wav|The laughter of children at play fills the air with joyous energy.
+/content/TTS-TT2/wavs/71.wav|The stillness of a lake mirrors the tranquility of a peaceful mind.
+/content/TTS-TT2/wavs/72.wav|A rainbow stretches across the sky a bridge between earth and sky.
+/content/TTS-TT2/wavs/73.wav|The artist's palette captures the essence of a moment in time.
+/content/TTS-TT2/wavs/74.wav|The heartbeat of the city is the rhythm of its bustling streets.
+/content/TTS-TT2/wavs/75.wav|Each snowflake is a unique masterpiece a work of art from the sky.
+/content/TTS-TT2/wavs/76.wav|The rustling leaves create a symphony as the wind passes through.
+/content/TTS-TT2/wavs/77.wav|The morning dew glistens on the grass like a sea of tiny diamonds.
+/content/TTS-TT2/wavs/78.wav|The fragrance of blooming flowers perfumes the air with delight.
+/content/TTS-TT2/wavs/79.wav|The sound of a distant train evokes feelings of adventure and nostalgia.
+/content/TTS-TT2/wavs/80.wav|The pages of history are a testament to the journeys of humanity.
+/content/TTS-TT2/wavs/81.wav|The universe holds secrets that intrigue and inspire our curiosity.
+/content/TTS-TT2/wavs/82.wav|The crackling of a fireplace warms the soul on a chilly evening.
+/content/TTS-TT2/wavs/83.wav|The whisper of a secret is carried by the wind to distant ears.
+/content/TTS-TT2/wavs/84.wav|The rhythm of a heartbeat is a melody of life itself.
+/content/TTS-TT2/wavs/85.wav|The scent of a pine forest invites exploration and contemplation.
+/content/TTS-TT2/wavs/86.wav|The stars above are like the dreams of the universe, waiting to be seen.
+/content/TTS-TT2/wavs/87.wav|The light of a lighthouse guides ships safely through the night.
+/content/TTS-TT2/wavs/88.wav|The sound of rain on a rooftop is a comforting lullaby.
+/content/TTS-TT2/wavs/89.wav|The vibrant colors of a cityscape paint the canvas of urban life.
+/content/TTS-TT2/wavs/90.wav|The scent of fresh flowers rejuvenates the senses with every breath.
+/content/TTS-TT2/wavs/91.wav|The wind carries stories of distant lands to eager listeners.
+/content/TTS-TT2/wavs/92.wav|The moon's reflection shimmers on the surface of a tranquil lake.
+/content/TTS-TT2/wavs/93.wav|The taste of homemade food is a journey through familiar flavors.
+/content/TTS-TT2/wavs/94.wav|The melody of a song can stir emotions deep within the soul.
+/content/TTS-TT2/wavs/95.wav|The rustling leaves tell stories of the wind's journey through the trees.
+/content/TTS-TT2/wavs/96.wav|The fragrance of a summer garden fills the air with life.
+/content/TTS-TT2/wavs/97.wav|The sound of a waterfall echoes through the heart of the forest.
+/content/TTS-TT2/wavs/98.wav|The night sky reveals the wonders of the cosmos in a breathtaking display.
+/content/TTS-TT2/wavs/99.wav|The laughter of friends is a chorus of happiness and camaraderie.
