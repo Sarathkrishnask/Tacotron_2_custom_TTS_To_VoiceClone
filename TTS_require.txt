@@ -33,7 +33,7 @@ tokenizers==0.13.3
 torch==2.0.1
 torchaudio==2.0.2
 tqdm==4.66.1
-transformers==4.32.0
+transformers==5.10.1
 typing_extensions==4.7.0
 tzdata==2023.3
 uritemplate==4.1.1
